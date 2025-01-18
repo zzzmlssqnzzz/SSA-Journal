@@ -1,0 +1,1 @@
+# SSA-Journal
